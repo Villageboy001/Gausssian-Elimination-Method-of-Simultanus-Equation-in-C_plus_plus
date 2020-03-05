@@ -1,0 +1,1 @@
+# Gausssian-Elimination-Method-of-Simultanus-Equation-in-C_plus_plus
